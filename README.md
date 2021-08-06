@@ -1,10 +1,13 @@
 <h1 align="center">Extract Transform Load </h1>
 <h1 align="center">ETL</h1>
-Objectives
+
+### Objectives
+
 In this Project , we are going to focus on three learning objectives:
--	Design and Implement a basic database using SQLite3.
--	Apply the ETL process over the database using Python.
-- Visualize and manage to the implemented database 
+
+*	Design and Implement a basic database using SQLite3.
+*	Apply the ETL process over the database using Python.
+* Visualize and manage to the implemented database 
 
 #### Install
 
