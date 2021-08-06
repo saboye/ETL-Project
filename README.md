@@ -1,6 +1,3 @@
-# ETL Project
-
-
 <h1 align="center">Extract Transform Load </h1>
 <h1 align="center">ETL</h1>
 
